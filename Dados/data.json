@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "impala 67",
+        "descricao": "Chevrolet impala 1967",
+        "preco": 200.000,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "ferrari",
+        "descricao": "ferrari 458 italia",
+        "preco": 2.200000,
+        "imagem": "../Imagens/ferrari.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Onix",
+        "descricao": "Chevrolet Onix",
+        "preco": 94.900,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "HB20",
+        "descricao": "Hyundai HB20",
+        "preco": 84.990,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Argo",
+        "descricao": "Fiat Argo",
+        "preco": 89.990,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Kwid",
+        "descricao": "Renault Kwid",
+        "preco":  67.290,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Corolla",
+        "descricao": "Toyota Corolla",
+        "preco":  161.990,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Civic",
+        "descricao": "Honda Civic",
+        "preco":  265.900,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Hilux",
+        "descricao": "Toyota Hilux (picape)",
+        "preco":  245.990,
+        "imagem": "../Imagens/impala.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Gol",
+        "descricao": "Volkswagen Gol",
+        "preco":  100.000,
+        "imagem": "../Imagens/impala.jpg"
+    }
+]

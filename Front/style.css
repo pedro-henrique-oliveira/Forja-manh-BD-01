@@ -7,6 +7,20 @@
 body{
     padding: 20px;
     font-family: Arial, Arial, Helvetica, sans-serif;
+    background-image: url('../Imagens/carro.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(168, 164, 164);
+}
+
+h1{
+    text-align: center;
 }
 
 .results{
@@ -18,5 +32,34 @@ body{
     gap: 20px;
     width: 100%;
     padding: 20px;
-    border: 2px solid black;
+
+}
+
+.card{
+    border: 2px solid rgba(255, 255, 255, 0);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgba(106, 117, 165, 0.377);
+    color: #ffffffcc;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    transition: all 200ms linear;
+}
+
+.card:hover{
+    cursor: pointer;
+    background-color: rgba(106, 117, 165, 0.377);
+    color: #ffffff;
+    height: 350px;
+    width: 350px;
+}
+
+.card img{
+    width: 200px;
+    height: auto;
+    border-radius: 50px;
 }

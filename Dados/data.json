@@ -16,57 +16,57 @@
     {
         "id": 3,
         "nome": "Onix",
-        "descricao": "Chevrolet Onix",
+        "descricao": "Chevrolet Onix 2012",
         "preco": 94.900,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/Onix.jpg"
     },
     {
         "id": 4,
         "nome": "HB20",
-        "descricao": "Hyundai HB20",
+        "descricao": "Hyundai HB20 2015",
         "preco": 84.990,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/HB20.jpg"
     },
     {
         "id": 5,
         "nome": "Argo",
-        "descricao": "Fiat Argo",
+        "descricao": "Fiat Argo 2017",
         "preco": 89.990,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/argo.jpg"
     },
     {
         "id": 6,
-        "nome": "Kwid",
-        "descricao": "Renault Kwid",
+        "nome": "Opala",
+        "descricao": "Chevrolet Opala 1992",
         "preco":  67.290,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/opala.jpg"
     },
     {
         "id": 7,
         "nome": "Corolla",
-        "descricao": "Toyota Corolla",
+        "descricao": "Toyota Corolla 1966",
         "preco":  161.990,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/corolla.jpg"
     },
     {
         "id": 8,
         "nome": "Civic",
-        "descricao": "Honda Civic",
+        "descricao": "Honda Civic 1972",
         "preco":  265.900,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/civic.jpg"
     },
     {
         "id": 9,
         "nome": "Hilux",
-        "descricao": "Toyota Hilux (picape)",
+        "descricao": "Toyota Hilux (picape) 1968",
         "preco":  245.990,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/hilux.jpeg"
     },
     {
         "id": 10,
         "nome": "Gol",
-        "descricao": "Volkswagen Gol",
+        "descricao": "Volkswagen Gol 2018",
         "preco":  100.000,
-        "imagem": "../Imagens/impala.jpg"
+        "imagem": "../Imagens/gol.jpg"
     }
 ]
